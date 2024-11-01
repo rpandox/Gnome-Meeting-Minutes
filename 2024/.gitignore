@@ -1,0 +1,35 @@
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fls
+*.fdb_latexmk
+*.log
+*.lot
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.run.xml
+*.idx
+
+# Backup files
+*~
+*.bak
+*.old
+*.orig
+
+# Editor-specific files
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# LaTeX temporary files
+*.fls
+*.fdb_latexmk
+
+# Other
+*.pdfsync
+*.xml
