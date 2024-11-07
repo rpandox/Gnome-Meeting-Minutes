@@ -9,7 +9,6 @@
 *.lot
 *.out
 *.toc
-*.pdf
 *.synctex.gz
 *.run.xml
 *.idx
