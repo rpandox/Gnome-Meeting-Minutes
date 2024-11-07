@@ -19,7 +19,7 @@
 1. **Formation and Next Steps for the Design Team**
 
    - Two members, Roshan Pandey and Bikash Mishra, are interested in joining the social media and design team.
-   - Bikash Mishra will serve as the Social Media Manager, and Roshan will take on the role of Designer.
+   - Bikash Mishra will serve as the Social Media Manager, and Roshan including ikash will take on the role of Designer.
    - At least two additional designers are needed to complete the team.
    - Discussions are ongoing with a designer who previously contributed to UbuCon India.
    - The team will be responsible for creating and posting social media content.
